@@ -1,0 +1,10 @@
+8 Sala(s) cadastrada(s)
+ID, Nome, Descricao, Lotacao Maxima
+1, Sala A, Sala de Aula com Projetor, 30
+2, Sala B, Laboratorio de Informatica, 20
+3, Sala C, Sala de Reunioes, 15
+4, Sala D, Auditorio, 100
+5, Sala E, Sala de Estudos, 10
+6, Sala F, Sala de Estudos, 10
+7, Sala G, Sala de Estudos, 15
+8, Sala H, Sala de Estudos, 20
